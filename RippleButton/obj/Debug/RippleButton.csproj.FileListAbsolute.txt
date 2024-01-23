@@ -1,0 +1,9 @@
+C:\Users\Illamugundhan\source\repos\Graphics\RippleButton\bin\Debug\RippleButton.exe.config
+C:\Users\Illamugundhan\source\repos\Graphics\RippleButton\bin\Debug\RippleButton.exe
+C:\Users\Illamugundhan\source\repos\Graphics\RippleButton\bin\Debug\RippleButton.pdb
+C:\Users\Illamugundhan\source\repos\Graphics\RippleButton\obj\Debug\RippleButton.Form1.resources
+C:\Users\Illamugundhan\source\repos\Graphics\RippleButton\obj\Debug\RippleButton.Properties.Resources.resources
+C:\Users\Illamugundhan\source\repos\Graphics\RippleButton\obj\Debug\RippleButton.csproj.GenerateResource.cache
+C:\Users\Illamugundhan\source\repos\Graphics\RippleButton\obj\Debug\RippleButton.csproj.CoreCompileInputs.cache
+C:\Users\Illamugundhan\source\repos\Graphics\RippleButton\obj\Debug\RippleButton.exe
+C:\Users\Illamugundhan\source\repos\Graphics\RippleButton\obj\Debug\RippleButton.pdb
